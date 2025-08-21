@@ -8,7 +8,7 @@ def test_add():
     assert add(1, -1) == 0
     
 # this is 2nd test commit
-def subtarct(a,b):
+def subtract(a,b):
     return a - b
 
 def test_sub():
